@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 👨‍💻 All of my projects are available at [https://roygalaxy-portfolio.cyclic.app](https://roygalaxy-portfolio.cyclic.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-qfmw.onrender.com](https://portfolio-qfmw.onrender.com)
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions**
 
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/roy_galaxy.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roy_galaxy.codes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/roy galaxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roy galaxy" height="30" width="40" /></a>
+<a href="https://instagram.com/roy_galaxy.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roy_galaxy.dev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@roy.galaxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roy galaxy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/roygalaxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roygalaxy" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ajroysldgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajroysldgw" height="30" width="40" /></a>
 </p>
