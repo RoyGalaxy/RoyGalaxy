@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-qfmw.onrender.com](https://abhijeet-roy.onrender.com)
+- 👨‍💻 All of my projects are available at [https://abhijeet-roy.onrender.com](https://abhijeet-roy.onrender.com)
 
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions**
 
